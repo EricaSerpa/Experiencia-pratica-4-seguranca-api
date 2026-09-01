@@ -1,4 +1,4 @@
-# Experiência Prática IV — Segurança de APIs
+# Experiência Prática — Segurança de APIs
 
 ## Protegendo APIs no Mundo Real: Segurança, Autenticação e Controle de Acesso
 
